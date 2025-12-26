@@ -54,10 +54,10 @@ Building innovative solutions at the intersection of technology and business. I 
 ### 📊 GitHub Stats
 
 <div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ja1zme&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1zme&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)  
-</div>
+
+    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ja1zme&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+    
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1zme&layout=compact&theme=dark&hide_border=true&langs_count=8)</div>
 
 ---
 
