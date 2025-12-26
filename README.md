@@ -55,10 +55,8 @@ Building innovative solutions at the intersection of technology and business. I 
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ja1zme&show_icons=true&theme=dark&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1zme&layout=compact&theme=dark&hide_border=true)
-  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ja1zme&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ja1zme&layout=compact&theme=dark&hide_border=true&cache_seconds=86400)  
 </div>
 
 ---
